@@ -56,7 +56,6 @@ def start(message):
     if user_id in allowed_users:
         add_user_to_data(user_id)
         bot.reply_to(message, 'اهلا بك في بوت الرفع الخارجي المطورين @S8BBBBB , شرح البوت تابعه قبل لا تبدي ', reply_markup=keyboard)
-    else7683649524:AAHGnUBKK_qqlZxmr3XsII95KAevtuE-9AA
         bot.reply_to(message, 'انت غير مشترك في البوت للاشتراك في البوت : @S8BBBBB ')
 
 
