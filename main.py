@@ -12,7 +12,7 @@ import telebot
 bot_token = '7683649524:AAHGnUBKK_qqlZxmr3XsII95KAevtuE-9AA'
 bot = telebot.TeleBot(bot_token)
 user_data = {}
-allowed_users = ['7256686463']
+allowed_users = ['7256686463','1869334022']
 admin_id = '7256686463'
 subscription_data = {}
 
